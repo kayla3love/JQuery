@@ -1,0 +1,36 @@
+#title{
+    display: inline-block;
+    font-size: 16px;
+}
+.highLight_tips{
+    display: inline-block;
+}
+.current{
+    background-color: #33CCFF;
+    border-radius: 20px;
+    color:white;
+}
+#head button{
+    display: inline-block;
+    width: 30px;
+}
+#imgBox{
+    position: relative;
+    width: 910px;
+    height: 300px;
+    overflow: hidden;
+}
+#contentList{
+    position: absolute;
+}
+#imgBox ul{
+    width: 2000px;
+    padding: 0;
+}
+#imgBox li{
+    width: 300px;
+    display: inline;
+}
+#imgBox img{
+    width: 300px;
+}
